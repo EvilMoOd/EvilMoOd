@@ -3,8 +3,6 @@
 - ⚡ 努力学习中。。。
 
 
-个人博客：
-
 <a href="https://evilmood.github.io/mublog/" target="_blank"><img alt="Github" src="https://s2.loli.net/2022/08/10/5Tv41PUlE3NyQmX.png" /></a>
 
 

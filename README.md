@@ -20,8 +20,7 @@
 </p>
 
 
-
-| <a href="https://github.com/EvilMoOd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EvilMoOd&show_icons=true&include_all_commits=true&hide_border=true" alt="EvilMoOd's github stats" /></a> | <a href="https://github.com/EvilMoOd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvilMoOd&layout=compact&hide_border=true" alt="EvilMoOd's Top Langs" /></a> |
+| <a href="https://github.com/EvilMoOd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EvilMoOd&show_icons=true&hide_border=true" alt="EvilMoOd's github stats" /></a> | <a href="https://github.com/EvilMoOd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvilMoOd&layout=compact&hide_border=true" alt="EvilMoOd's Top Langs" /></a> |
 | ------------- | ------------- |
 
 

@@ -5,6 +5,10 @@
 <p align="center">
 <a href="https://evilmood.github.io/mublog/" target="_blank"><img alt="Github" src="https://s2.loli.net/2022/08/10/5Tv41PUlE3NyQmX.png" /></a>
 </p>
+<p align="center">
+    <a href="https://wakatime.com/@7206472a-006d-4ddd-8cd3-bde79bfe63d0"><img src="https://wakatime.com/badge/user/7206472a-006d-4ddd-8cd3-bde79bfe63d0.svg" alt="Total time coded since Mar 23 2022" /></a>
+</p>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/EvilMoOd/count.svg" />
